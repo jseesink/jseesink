@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding and basketbal
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me ...
 
 <!---
 jseesink/jseesink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
